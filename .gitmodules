@@ -1,0 +1,24 @@
+[submodule "mongo"]
+	path = mongo
+	url = https://github.com/mongodb/mongo.git
+[submodule "mariadb"]
+	path = mariadb
+	url = https://github.com/atcurtis/mariadb.git
+[submodule "sqlite"]
+	path = sqlite
+	url = git://repo.or.cz/sqlite-export.git
+[submodule "webscalesql"]
+	path = webscalesql
+	url = https://github.com/webscalesql/webscalesql-5.6.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git://git.postgresql.org/git/postgresql.git
+[submodule "memcached"]
+	path = memcached
+	url = https://github.com/memcached/memcached.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/antirez/redis.git
+[submodule "couchdb"]
+	path = couchdb
+	url = git://git.apache.org/couchdb.git
