@@ -28,3 +28,6 @@
 [submodule "rocksdb"]
 	path = rocksdb
 	url = https://github.com/facebook/rocksdb.git
+[submodule "hbase"]
+	path = hbase
+	url = git://git.apache.org/hbase.git
