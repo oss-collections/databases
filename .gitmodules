@@ -22,3 +22,6 @@
 [submodule "couchdb"]
 	path = couchdb
 	url = git://git.apache.org/couchdb.git
+[submodule "leveldb"]
+	path = leveldb
+	url = https://code.google.com/p/leveldb
